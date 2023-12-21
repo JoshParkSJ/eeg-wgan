@@ -1,1 +1,0 @@
-from Data.mne_data import download_EEGBCI

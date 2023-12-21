@@ -1,0 +1,10 @@
+{
+    "log_dir": "/kaggle/working/adam-cba-yes-conv-last-layer10",
+    "num_steps": 1000000,
+    "batch_size": 32,
+    "n_dis": 5,
+    "lr_decay": "linear",
+    "optD": "Adam (\nParameter Group 0\n    amsgrad: False\n    betas: (0.5, 0.99)\n    capturable: False\n    differentiable: False\n    eps: 1e-08\n    foreach: None\n    fused: None\n    lr: 0.0001\n    maximize: False\n    weight_decay: 0\n)",
+    "optG": "Adam (\nParameter Group 0\n    amsgrad: False\n    betas: (0.5, 0.99)\n    capturable: False\n    differentiable: False\n    eps: 1e-08\n    foreach: None\n    fused: None\n    lr: 0.0001\n    maximize: False\n    weight_decay: 0\n)",
+    "save_steps": 3000
+}

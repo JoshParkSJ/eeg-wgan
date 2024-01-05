@@ -1,4 +1,9 @@
 # Generative Adversarial Network (GAN) for EEG Data Augmentation and Enhanced Classification Accuracy
+
+<p align="center">
+  <img src='data/cover.png'  align="center" width='90%'>
+</p>
+
 -----
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 

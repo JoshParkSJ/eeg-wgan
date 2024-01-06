@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+scipy
+matplotlib
+skimage
+sklearn
+tensorboard
+json

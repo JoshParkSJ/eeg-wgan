@@ -1,4 +1,4 @@
-# Generative Adversarial Network (GAN) for EEG Data Augmentation and Enhanced Classification Accuracy
+# Improving EEG Signal Availability using Deep Learning and Generative Adversarial Networks
 
 <p align="center">
   <img src='data/cover.png'  align="center" width='100%'>
@@ -30,20 +30,21 @@ To train the model and reproduce the results from our paper, simply run wgan-gp.
 ## Results
 Detailed results and comparisons are available in our paper.
 
-FID score:
 <p align="center">
-  <img src='data/FID.png'  align="center" width='100%'>
+  <img src='data/accuracy_fid.png'  align="center" width='100%'>
 </p>
 
-Classification accuracy:
 <p align="center">
-  <img src='data/accuracies.png'  align="center" width='100%'>
+  <img src='data/topomap1.png'  align="center" width='100%'>
+  <img src='data/topomap2.png'  align="center" width='100%'>
+</p>
+
+<p align="center">
+  <img src='data/psd.png'  align="center" width='100%'>
 </p>
 
 ## Citation
-If you find our work useful, please cite our paper: [Generative Adversarial Network (GAN) for EEG Data Augmentation and Enhanced Classification Accuracy]():
-```
-```
+If you find our work useful, please cite our paper: [Improving EEG Signal Availability using Deep Learning and Generative Adversarial Networks]():
 
 ## Contact
 Feel free to contact joshparksj(at)gmail(dot)com for any question or suggestion.

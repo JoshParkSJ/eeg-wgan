@@ -31,7 +31,7 @@ To train the model and reproduce the results from our paper, simply run wgan-gp.
 Detailed results and comparisons are available in our paper.
 
 <p align="center">
-  <img src='data/accuracy_fid.png'  align="center" width='100%'>
+  <img src='data/psd.png'  align="center" width='100%'>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Detailed results and comparisons are available in our paper.
 </p>
 
 <p align="center">
-  <img src='data/psd.png'  align="center" width='100%'>
+  <img src='data/accuracy_fid.png'  align="center" width='100%'>
 </p>
 
 ## Citation

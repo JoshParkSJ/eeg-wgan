@@ -16,9 +16,6 @@ Model architecture:
   <img src='data/architecture.png'  align="center" width='100%'>
 </p>
 
-## Quick Start
-To train the model and reproduce the results from our paper, simply run wgan-gp.ipynb file in a notebook environment such as Jupyter notebook
-
 ## Results
 Detailed results and comparisons are available in our paper.
 
@@ -35,12 +32,8 @@ Detailed results and comparisons are available in our paper.
   <img src='data/accuracy_fid.png'  align="center" width='100%'>
 </p>
 
-## Requirements
-Install the necessary libraries by running:
-
-```
-pip install -r requirements.txt
-```
+## Quick Start
+To train the model and reproduce the results from our paper, simply run wgan-gp.ipynb file in a notebook environment such as Jupyter notebook
 
 ## Citation
 If you find our work useful, please cite our paper: [Improving EEG Signal Availability using Deep Learning and Generative Adversarial Networks]():

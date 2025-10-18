@@ -34,7 +34,9 @@ Detailed results and comparisons are available in our paper.
 </p>
 
 ## Quick Start
-To train the model and reproduce the results from our paper, simply run wgan-gp.ipynb file in a notebook environment such as Jupyter notebook
+To train the model and reproduce the results from our paper, simply run wgan-gp.ipynb file in a notebook environment such as Jupyter notebook.
+
+You can also `pip install repro-gan` to reproduce this EEG-WGAN model in <30 lines of code (source: https://github.com/JoshParkSJ/repro-gan).
 
 ## Citation
 If you find our work useful, please cite our paper: [Improving EEG Signal Availability using Deep Learning and Generative Adversarial Networks](https://arxiv.org/abs/2402.09453):
